@@ -8,7 +8,7 @@ function Auth(config) {
     return new Auth(config);
   }
 
-  this.authClient = null;
+  // this.authClient = null;
   this.config = config || {};
 }
 
